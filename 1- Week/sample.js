@@ -1,2 +1,2 @@
 const x = 22;
-console.log(x);
+console.log(x, "X");
