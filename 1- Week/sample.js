@@ -1,2 +1,4 @@
-const x = 22;
-console.log(x, "X");
+const sample = () => {
+  const x = 22;
+  console.log(x, "X");
+};
